@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "flow-bin": "^0.55.0",
+    "flow-interfaces-chatwork-client-gas": "^0.0.1"
+  }
+}
