@@ -5,7 +5,7 @@
 ## Setup
 
 ```
-npm install --globale yarn
+npm install --global yarn
 yarn
 ```
 
