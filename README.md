@@ -15,10 +15,9 @@ yarn
 $ yarn run flow
 yarn run flow
 yarn run v1.0.2
-$ "/Users/eiel/Documents/ghq/github.com/eiel-sample-code/chatwork-google-apps-script-flow-sample/node_modules/.bin/flow"
-Launching Flow server for /Users/eiel/Documents/ghq/github.com/eiel-sample-code/chatwork-google-apps-script-flow-sample
-Spawned flow server (pid=5752)
-Logs will go to /private/tmp/flow/zSUserszSeielzSDocumentszSghqzSgithub.comzSeiel-sample-codezSchatwork-google-apps-script-flow-sample.log
+$ "eiel-sample-code/chatwork-google-apps-script-flow-sample/node_modules/.bin/flow"
+Launching Flow server for eiel-sample-code/chatwork-google-apps-script-flow-sample
+Spawned flow server 
 Library type error:
 node_modules/flow-interfaces-chatwork-client-gas/definitions/ChatWork.js:8
   8:   factory(config: gas$ChatWork$Config): gas$ChatWorkClient$ChatWork;
